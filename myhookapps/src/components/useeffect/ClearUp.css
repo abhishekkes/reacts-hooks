@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  h2 {
+    line-height: 5.2rem;
+    font-size: 4.2rem;
+  }
+  span {
+    color: #2e86c1;
+  }
